@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="128"
-   height="128"
-   viewBox="0 0 4 4"
+   width="124.16"
+   height="124.16"
+   viewBox="0 0 3.8800001 3.8800001"
    version="1.1"
    id="svg214"
    sodipodi:docname="Color_PrideFlag_Asexual_Panromantic.svg"
@@ -38,9 +38,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="2.8910356"
-     inkscape:cx="-7.9556268"
-     inkscape:cy="60.704892"
+     inkscape:zoom="4.0885417"
+     inkscape:cx="17.610191"
+     inkscape:cy="60.779618"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -52,9 +52,11 @@
     <rect
        width="4"
        height="4"
-       fill="#fff"
-       rx="0.925"
-       id="rect201" />
+       fill="#ffffff"
+       rx="0.92500001"
+       id="rect201"
+       x="0"
+       y="0" />
   </mask>
   <g
      mask="url(#m)"
@@ -101,7 +103,7 @@
      inkscape:label="pansexual"
      style="display:inline"
      clip-path="none"
-     transform="matrix(1.112162,0,0,1.112162,-0.15750239,-0.33321456)"
+     transform="matrix(1.112162,0,0,1.112162,-0.15750239,-0.3332146)"
      sodipodi:insensitive="true"
      mask="url(#mask8944)">
     <path
