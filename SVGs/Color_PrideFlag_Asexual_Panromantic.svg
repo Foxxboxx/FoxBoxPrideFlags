@@ -13,20 +13,20 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs218">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8530">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask8944">
       <g
          inkscape:groupmode="layer"
-         id="g8534"
+         id="g8948"
          inkscape:label="heart">
         <path
-           id="path8532"
+           id="path8946"
            style="fill:#ffffff;fill-opacity:1;stroke-width:0.027066;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.0212598;stroke-opacity:0;paint-order:markers stroke fill"
            d="m 0.77632645,1.0266211 a 0.80429693,0.78389302 79.060378 0 0 0.005337,1.1363844 L 1.8859696,3.2939593 2.9902754,2.1630056 a 0.78389302,0.80429693 10.939622 0 0 0.0053,-1.1364181 0.78389302,0.80429693 10.939622 0 0 -1.1096087,0.00546 0.80429693,0.78389302 79.060378 0 0 -1.10964108,-0.00543 z"
            inkscape:label="path3017" />
       </g>
-    </clipPath>
+    </mask>
   </defs>
   <sodipodi:namedview
      id="namedview216"
@@ -46,7 +46,7 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="svg214" />
   <mask
      id="m">
     <rect
@@ -61,7 +61,11 @@
      transform="scale(0.97)"
      transform-origin="center"
      id="g212"
-     style="display:inline">
+     style="display:inline"
+     inkscape:export-filename="Color_1024_PrideFlag_Asexual_Panromanic.png"
+     inkscape:export-xdpi="791.75256"
+     inkscape:export-ydpi="791.75256"
+     sodipodi:insensitive="true">
     <rect
        width="4"
        height="4"
@@ -96,20 +100,22 @@
      id="layer2"
      inkscape:label="pansexual"
      style="display:inline"
-     clip-path="url(#clipPath8530)"
-     transform="matrix(1.112162,0,0,1.112162,-0.15750233,-0.33321455)">
+     clip-path="none"
+     transform="matrix(1.112162,0,0,1.112162,-0.15750239,-0.33321456)"
+     sodipodi:insensitive="true"
+     mask="url(#mask8944)">
     <path
-       id="rect7659"
+       id="path8940"
        style="fill:#1ab3ff;stroke-width:0.0207128;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.680315;stroke-opacity:0;paint-order:markers stroke fill"
        inkscape:label="1AB3FF"
        d="M 0.51096845,2.459585 H 3.2609684 V 3.29396 H 0.51096845 Z" />
     <path
-       id="rect7630"
+       id="path8937"
        style="fill:#ffd700;stroke-width:0.0207128;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.680315;stroke-opacity:0;paint-order:markers stroke fill"
        inkscape:label="FFD700"
        d="M 0.51096845,1.6267731 H 3.2609684 v 0.834375 H 0.51096845 Z" />
     <path
-       id="rect6116"
+       id="path8934"
        style="display:inline;fill:#ff1c8d;stroke-width:0.0207128;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.680315;stroke-opacity:0;paint-order:markers stroke fill"
        inkscape:label="FF1C8D"
        d="M 0.51096845,0.79396063 H 3.2609684 V 1.6283357 H 0.51096845 Z" />
